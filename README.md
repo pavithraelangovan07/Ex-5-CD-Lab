@@ -1,3 +1,8 @@
+# Name: Pavithra E
+# Reg no :212224220072
+# Date: 14.04.2025
+
+
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Aim:
